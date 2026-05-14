@@ -1,2 +1,4 @@
 rosa 
+vermelho
+roxo
 azul
